@@ -1,4 +1,5 @@
-Claims Dashboard
+## Claims Dashboard
+
 This Power BI dashboard provides a comprehensive overview of claims data, offering insights into key metrics, trends, and financial performance. It's designed to help healthcare providers and administrators make informed decisions based on data-driven analysis.
 
 Key Features:
