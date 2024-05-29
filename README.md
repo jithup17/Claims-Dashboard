@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a comprehensive overview of claims data, offering insights into key metrics, trends, and financial performance. It's designed to help healthcare providers and administrators make informed decisions based on data-driven analysis.
 
-# Key Features:
+### Key Features:
 
 Claims vs. Visits: Compare the number of claims with the number of patient visits over time.
 
@@ -26,7 +26,7 @@ Charges vs. Payments Table: Compare charges and payments by organization/office.
 
 CPT Code Analysis: Analyze charges, payments, and profitability by CPT (Current Procedural Terminology) codes.
 
-# How to Use:
+### How to Use:
 
 Filters: Utilize the available filters (e.g., Payor/Carrier Name, Office Name, Date) to customize your view.
 
@@ -36,7 +36,7 @@ Tooltips: Hover over data points to see additional information in tooltips.
 
 Page Navigation: Use the page navigation at the bottom to explore different sections of the dashboard.
 
-# Insights:
+### Insights:
 
 Identify trends in claims volume and revenue.
 Monitor the efficiency of revenue collection (AR days).
@@ -45,7 +45,7 @@ Understand the payor mix and its impact on revenue.
 Track daily activity and identify areas for improvement.
 Analyze the profitability of different procedures (CPT codes).
 
-# Technical Details:
+### Technical Details:
 
 Data Source: The dashboard is connected to a healthcare claims dataset.
 
